@@ -1,6 +1,6 @@
 # My Password Generator
 
-![My Password Generator](Develop/assets/my-password-generator-screenshot.png)
+![My Password Generator](assets/my-password-generator-screenshot.png)
 
 ## My Password Generator provides a safe and secure way to create strong passwords for users looking to keep their data protected.
 
