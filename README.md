@@ -12,5 +12,7 @@
 * Can include upper case letters
 * Completely random
 
+### Made with JavaScript, CSS3, and HTML5
+
 [MyPasswordGenerator.com](https://kohringsw.github.io/password-generator/)
 
