@@ -14,5 +14,5 @@
 
 ### Made with JavaScript, CSS3, and HTML5
 
-[Link to My Password Generator](https://kohringsw.github.io/password-generator/)
+[Link to My Password Generator](https://shelbykohring.github.io/password-generator/)
 
